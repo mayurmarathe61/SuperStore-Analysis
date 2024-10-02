@@ -1,5 +1,5 @@
 # Global-Superstore-Sales-Dashboard-Using-Power-Bi
-<img src="https://github.com/ritikaga/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/ffd832af-ddb7-4315-87eb-1dd0fbac56bb" height="400" width="1800" >
+<img src="https://github.com/mayurmarathe61/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/ffd832af-ddb7-4315-87eb-1dd0fbac56bb" height="400" width="1800" >
 
 ### The interactive dashboard is designed to be used by retailers and provide them with a high-level to granular understanding of how different products perform. It provides an overview of total sales, with the ability to showcase yearly, quarterly, and monthly growth rates. 
 
@@ -20,16 +20,16 @@ Overall, my ultimate goal is to provide useful insights and actionable informati
 ## Interactive Dashboard
 
 
-https://github.com/ritikaga/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/a33453ef-9943-40f6-829b-047d945b5831
+https://github.com/mayurmarathe61/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/a33453ef-9943-40f6-829b-047d945b5831
 
 
 ## Sales Forecasting for the next 6 months
 Forecasting is an important tool that helps businesses plan and make informed decisions about their future sales strategies and resource allocation. One way to do this is by predicting the sales and revenue of a superstore using historical data from 2019 and 2020.
 
 
-<img width="1800" height='350' alt="Forecast 1" src="https://github.com/ritikaga/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/2363c590-c8ba-4add-8e80-850578668774">
+<img width="1800" height='350' alt="Forecast 1" src="https://github.com/mayurmarathe61/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/2363c590-c8ba-4add-8e80-850578668774">
 
-<img width="1800" height='350' alt="Forecast 2" src="https://github.com/ritikaga/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/0ffd9dbe-87ea-488c-906a-d64a3070f0bb">
+<img width="1800" height='350' alt="Forecast 2" src="https://github.com/mayurmarathe61/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/0ffd9dbe-87ea-488c-906a-d64a3070f0bb">
 
 ## Project Insights
 * The sales total for this period was 2 million, resulting in a profit of 175k. Unfortunately, there were 5901 product returns.
