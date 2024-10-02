@@ -1,5 +1,5 @@
 # Global-Superstore-Sales-Dashboard-Using-Power-Bi
-![Uploading image.png…]()
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fstock-photo%2Freal-canadian-superstore.html&psig=AOvVaw0HLTCxPdlojhGtbKB-0zpC&ust=1727931471379000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCP08L07ogDFQAAAAAdAAAAABAE
 
 ### The interactive dashboard is designed to be used by retailers and provide them with a high-level to granular understanding of how different products perform. It provides an overview of total sales, with the ability to showcase yearly, quarterly, and monthly growth rates. 
 
