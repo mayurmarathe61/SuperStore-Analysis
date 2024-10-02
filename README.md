@@ -29,7 +29,7 @@ Forecasting is an important tool that helps businesses plan and make informed de
 
 <img width="1800" height='350' alt="Forecast 1" src="https://github.com/ritikaga/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/2363c590-c8ba-4add-8e80-850578668774">
 
-<img width="1800" height='350' alt="Forecast 2" src="https://https://github.com/mayurmarathe61/SuperStore-Analysis/edit/main/README.md">
+<img width="1800" height='350' alt="Forecast 2" src="https://github.com/mayurmarathe61/SuperStore-Analysis/blob/main/forcast.png">
 
 ## Project Insights
 * The sales total for this period was 2 million, resulting in a profit of 175k. Unfortunately, there were 5901 product returns.
