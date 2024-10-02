@@ -1,5 +1,5 @@
 # Global-Superstore-Sales-Dashboard-Using-Power-Bi
-<img src="https://github.com/mayurmarathe61/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/ffd832af-ddb7-4315-87eb-1dd0fbac56bb" height="400" width="1800" >
+<img src="https://github.com/ritikaga/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/ffd832af-ddb7-4315-87eb-1dd0fbac56bb" height="400" width="1800" >
 
 ### The interactive dashboard is designed to be used by retailers and provide them with a high-level to granular understanding of how different products perform. It provides an overview of total sales, with the ability to showcase yearly, quarterly, and monthly growth rates. 
 
