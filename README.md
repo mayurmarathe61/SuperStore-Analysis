@@ -1,5 +1,5 @@
 # Global-Superstore-Sales-Dashboard-Using-Power-Bi
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fstock-photo%2Freal-canadian-superstore.html&psig=AOvVaw0HLTCxPdlojhGtbKB-0zpC&ust=1727931471379000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCP08L07ogDFQAAAAAdAAAAABAE
+
 
 ### The interactive dashboard is designed to be used by retailers and provide them with a high-level to granular understanding of how different products perform. It provides an overview of total sales, with the ability to showcase yearly, quarterly, and monthly growth rates. 
 
@@ -29,7 +29,7 @@ Forecasting is an important tool that helps businesses plan and make informed de
 
 <img width="1800" height='350' alt="Forecast 1" src="https://github.com/ritikaga/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/2363c590-c8ba-4add-8e80-850578668774">
 
-<img width="1800" height='350' alt="Forecast 2" src="https://github.com/ritikaga/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/0ffd9dbe-87ea-488c-906a-d64a3070f0bb">
+<img width="1800" height='350' alt="Forecast 2" src="https://https://github.com/mayurmarathe61/SuperStore-Analysis/edit/main/README.md">
 
 ## Project Insights
 * The sales total for this period was 2 million, resulting in a profit of 175k. Unfortunately, there were 5901 product returns.
